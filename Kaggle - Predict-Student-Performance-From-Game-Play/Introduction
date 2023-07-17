@@ -1,0 +1,15 @@
+# Predict Student Performance From Game Play
+
+This folder contains code related to the Kaggle competition "Predict Student Performance From Game Play". 
+The competition can be found at: [https://www.kaggle.com/competitions/predict-student-performance-from-game-play].
+
+## Notebooks
+
+- `Notebook 1: EDA, Basic Feature Engineering, and Baseline Models (XGBoost and LGBM)`:   
+  This notebook focuses on the exploratory data analysis (EDA) of the dataset, basic feature engineering, and the reproduction of two baseline models: XGBoost and LGBM.
+
+- `Notebook 2: Advanced Feature Engineering using Polars and CatBoost Model`:   
+  This notebook builds upon the work presented in the notebook (https://www.kaggle.com/code/carnozhao/cpu-catboost-baseline-using-polars-inference).   
+  It explores further feature engineering using the Polars library and utilizes the CatBoost model for prediction.
+
+Please refer to the respective notebooks for detailed code and explanations.
